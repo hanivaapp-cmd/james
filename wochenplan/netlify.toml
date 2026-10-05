@@ -1,0 +1,9 @@
+# Netlify-Einstellungen für die Wochenplan-App.
+# Bei einer Verbindung mit dem GitHub-Repository als „Base directory“ `wochenplan` eintragen –
+# diese Datei wird dann automatisch verwendet. Next.js erkennt Netlify selbst.
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "22"
