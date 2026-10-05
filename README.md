@@ -1,3 +1,6 @@
+> **Neu: einfacher Wochenplan für Küche & Fahrer** – siehe [`wochenplan/`](wochenplan/README.md).
+> Eigenständige App ohne Login: Zeiten per Schnellbutton eintragen, letzte Woche übernehmen, Plan als Bild per WhatsApp teilen.
+
 # Schichtwerk – Dienstpläne für Ihr Team
 
 Moderne Web-App (auch als App aufs Handy installierbar) zum Erstellen von Mitarbeiter-Dienstplänen.
